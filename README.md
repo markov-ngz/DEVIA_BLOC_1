@@ -7,3 +7,5 @@ Le code est répertorié selon les différentes compétences à acquérir :
 <br>
 A noter que compétence 2 "Développer des requêtes de type SQL d’extraction" est validée par les requêtes réalisées au sein de l'extraction et un exemple plus concret est fourni dans le rapport.
 
+## License : Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+This work © 2024 by markov-ngz is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
